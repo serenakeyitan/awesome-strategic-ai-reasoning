@@ -6,6 +6,9 @@ Noam Brown built Libratus and Pluribus — the AIs that beat the world's best po
 
 > Curated by the [first-tree](https://github.com/unispark-inc/first-tree?ref=awesome-strategic-ai-reasoning) team.
 
+### 🌳 use artifacts in [first-tree](https://first-tree.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-strategic-ai-reasoning-site) for **free** — the most efficient way for **human & agent collaboration** :D
+
+
 ---
 
 ## Contents
