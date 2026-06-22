@@ -1,0 +1,2 @@
+# Science.org returns 403 to non-browser clients (anti-bot), but the DOIs are valid.
+https://www.science.org/.*
